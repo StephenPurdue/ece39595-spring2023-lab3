@@ -11,3 +11,13 @@ Cons:
 Time
 
 Lack of Documentation / Predictability
+
+2.
+
+Roles and Responsibilities of Scrum Master:
+
+All scrum related tasks – JIRA tooling, facilitating sprintsand meetings, and standups
+
+Roles and Responsibilities of Product Owner:
+
+Sets direction for the team, handles releasemanagement and stakeholder management.
