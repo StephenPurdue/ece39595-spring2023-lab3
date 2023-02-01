@@ -1,1 +1,13 @@
-answers for lab 3ss
+1.
+
+Pros of Agile Development:
+
+Immediate Feedback
+
+Embracing uncertainty / Less Defective Products
+
+Cons:
+
+Time
+
+Lack of Documentation / Predictability
