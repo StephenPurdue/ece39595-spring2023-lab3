@@ -49,3 +49,23 @@ Start sprint
  Discuss work complete and move incomplete work to backlog
 
  Close sprint
+
+4.
+
+Issue:
+
+ A unit of work that can be tracked through a workflow
+
+ Can range from a bug to an epic
+
+Epic:
+
+ Captures a large body of work that can be broken down into severalsmaller stories
+
+Story:
+
+ A software system requirement that is expressed in a few shortsentences.
+
+Bug:
+
+ Blocks a story from being completed, smallest unit of work.
